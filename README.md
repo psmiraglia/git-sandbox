@@ -9,3 +9,7 @@ This is another piece of Alice's code
 ~~~
 This is the Bob's code
 ~~~
+
+~~~
+While this one is another piece
+~~~
