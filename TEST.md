@@ -7,6 +7,6 @@
 
 Text here...
 
-### Use the foce
+### Use the force
 
 Text here...
